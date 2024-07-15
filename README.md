@@ -7,7 +7,7 @@
 This is a simple web application that displays a random motivational quote along with an emoticon to set the mood for the day. Users can generate a new quote by clicking the "Generate Quote" button. The application randomly selects a quote from a list of 34 quotes and displays it on the screen.
 
 ## Demo
-You can see the application live on GitHub Pages: [Motivational Quote Generator](https://atakanatakk.github.io/motivational-quote-generator/)
+You can see the application live on GitHub Pages: [Motivational Quote Generator](https://github.com/atakanatakk/motivational-quote-generator.git)
 
 ## Features
 - Displays a random motivational quote with an emoticon.
