@@ -1,5 +1,9 @@
 # Motivational Quote Generator
 
+![Motivational Quote Generator](images/2.png)
+
+![Motivational Quote Generator](images/3.png)
+
 This is a simple web application that displays a random motivational quote along with an emoticon to set the mood for the day. Users can generate a new quote by clicking the "Generate Quote" button. The application randomly selects a quote from a list of 34 quotes and displays it on the screen.
 
 ## Demo
@@ -77,7 +81,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-
-![Motivational Quote Generator](images/2.png)
-
-![Motivational Quote Generator](images/3.png)
