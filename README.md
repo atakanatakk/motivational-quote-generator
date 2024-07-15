@@ -78,6 +78,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
 
-![Motivational Quote Generator 1](https://ibb.co/Css2MFk)
+![Motivational Quote Generator](images/2.png)
 
-![Motivational Quote Generator 2](https://ibb.co/Wz2QPFn)
+![Motivational Quote Generator](images/3.png)
